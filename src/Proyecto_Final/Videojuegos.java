@@ -18,7 +18,7 @@ public class Videojuegos extends Digital {
     private String plat;
     private String tipo;
 
-         
+         //sisisifer
         public Videojuegos(){
         this.nombre = "........";
         this.codigoV = 0;
