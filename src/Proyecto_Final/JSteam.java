@@ -46,6 +46,7 @@ public class JSteam extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
         jButton8 = new javax.swing.JButton();
         jButton9 = new javax.swing.JButton();
+        jButton10 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
@@ -125,6 +126,9 @@ public class JSteam extends javax.swing.JFrame {
         jButton9.setText("jButton9");
         jPanel1.add(jButton9, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 190, -1, -1));
 
+        jButton10.setText("jButton10");
+        jPanel1.add(jButton10, new org.netbeans.lib.awtextra.AbsoluteConstraints(630, 210, -1, -1));
+
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1100, 580));
 
         pack();
@@ -175,6 +179,7 @@ public class JSteam extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
+    private javax.swing.JButton jButton10;
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
     private javax.swing.JButton jButton4;
